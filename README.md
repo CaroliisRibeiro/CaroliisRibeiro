@@ -5,7 +5,8 @@ Aqui compartilho meus estudos, projetos e aprendizados nessa jornada pela tecnol
 
 🎓 **Estudante de Ciência da Computação**\
 👩‍🏫 Formada em Letras e professora da rede pública\
-🚀 Em formação com foco em **Java**, **HTML**, **CSS**, **JavaScript**, **UX/UI**\
+🚀 Em formação com foco na **Area de Dados**, 
+🔍 Conhecimento em **Java**, **HTML**, **CSS**, **JavaScript**, **UX/UI**\
 🐍 Cursei **Python pela Reprograma**\
 🎨 Cursei **UX Design pela UX para Minas Pretas**\
 💖 Amante de gatos 🐱, cachorros 🐶 e boas ideias!\
